@@ -1,0 +1,12 @@
+asgiref==3.6.0
+Django==3.2
+django-split-settings==1.2.0
+flake8==4.0.0
+mccabe==0.6.1
+psycopg2-binary==2.9.5
+pycodestyle==2.8.0
+pyflakes==2.4.0
+python-dotenv==0.21.0
+pytz==2022.7
+sqlparse==0.4.3
+uwsgi==2.0.20
